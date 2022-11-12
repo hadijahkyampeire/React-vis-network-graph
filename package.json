@@ -1,5 +1,5 @@
 {
-  "name": "react-vis-network-graph",
+  "name": "@hadijahkyampeire/react-vis-network-graph",
   "version": "1.0.0",
   "description": "Has an implementation of React vis network graph",
   "main": "index.js",
